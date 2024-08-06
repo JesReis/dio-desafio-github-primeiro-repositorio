@@ -16,9 +16,10 @@ Link para dowload do Git: https://git-scm.com/dowloads
 projetadas pela NSA (Agência de Segurança Nacional dos EUA)
    A encriptação gera conjunto de characteres identificador de 40 digítos.
 
-> Objetos: *Blobs (Bolhas)
-           *Trees (Árvore)
-           *Commits
+> Objetos: 
+*Blobs (Bolhas)
+*Trees (Árvore)
+*Commits
 
 > Chave SSH: É uma fora de estabelecer uma coneção segura e criptada entre duas máquinas (computadores).
 
