@@ -12,7 +12,8 @@ Link para dowload do Git: https://git-scm.com/dowloads
 
 ----Tópicos fundamentais para entender o funcionamento do Git----
 > SHA1: É uma forma curta de reprsentar um arquivo.
-   A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA)
+   A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas 
+projetadas pela NSA (Agência de Segurança Nacional dos EUA)
    A encriptação gera conjunto de characteres identificador de 40 digítos.
 
 > Objetos: *Blobs (Bolhas)
