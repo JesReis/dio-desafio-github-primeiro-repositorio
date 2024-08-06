@@ -1,0 +1,27 @@
+Link para dowload do Git: https://git-scm.com/dowloads
+
+----Comandos básicos para o Git no Windows----
+> dir: listagem
+> cd: navega entre as pastas
+> cd..:volta na navegação
+> cls: limpa o terminal
+> mk dir: cria pasta
+> dell "nome da pasta": deleta o que estiver dentro da pasta
+> rmdir workspace is/q "nome da pasta": deleta a pasta
+> "atalho no tecado" TAB: automaticamente completa o que estiver escrevendo.
+
+----Tópicos fundamentais para entender o funcionamento do Git----
+> SHA1: É uma forma curta de reprsentar um arquivo.
+   A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA)
+   A encriptação gera conjunto de characteres identificador de 40 digítos.
+
+> Objetos: *Blobs (Bolhas)
+           *Trees (Árvore)
+           *Commits
+
+> Chave SSH: É uma fora de estabelecer uma coneção segura e criptada entre duas máquinas (computadores).
+
+----Iniciando o Git----
+> git init
+> git add
+> git commit
